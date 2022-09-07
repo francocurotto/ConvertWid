@@ -1,0 +1,2 @@
+class Voltage():
+    name = "Voltage"
